@@ -1,0 +1,1 @@
+# [Implement the Provider Pattern with React Context](https://egghead.io/lessons/react-implement-the-provider-pattern-with-react-context)

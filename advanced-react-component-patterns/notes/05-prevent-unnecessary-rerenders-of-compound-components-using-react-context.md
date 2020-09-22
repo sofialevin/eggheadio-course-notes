@@ -1,0 +1,1 @@
+# [Prevent Unnecessary Rerenders of Compound Components using React Context](https://egghead.io/lessons/react-prevent-unnecessary-rerenders-of-compound-components-using-react-context)

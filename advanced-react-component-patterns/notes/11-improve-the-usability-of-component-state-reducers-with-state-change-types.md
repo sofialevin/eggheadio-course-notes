@@ -1,0 +1,1 @@
+# [Improve the usability of Component State Reducers with state change types](https://egghead.io/lessons/react-improve-the-usability-of-component-state-reducers-with-state-change-types)

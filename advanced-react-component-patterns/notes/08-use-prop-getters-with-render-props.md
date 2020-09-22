@@ -1,0 +1,1 @@
+# [Use Prop Getters with Render Props](https://egghead.io/lessons/react-use-prop-getters-with-render-props-b18543b7)

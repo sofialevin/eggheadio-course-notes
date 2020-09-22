@@ -1,0 +1,1 @@
+# [Use Prop Collections with Render Props](https://egghead.io/lessons/react-use-prop-collections-with-render-props-ea6ca5c2)

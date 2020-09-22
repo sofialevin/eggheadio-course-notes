@@ -18,7 +18,7 @@ This course teaches you advanced patterns in React that you can use to make comp
 - [01. Build a Toggle Component](notes/01-build-a-toggle-component.md)
 - [02. Write Compound Components](notes/02-write-compound-components.md)
 - [03. Make Compound React Components Flexible](notes/03-make-compound-react-components-flexible.md)
-- [04. Validate Compound Component Context Consumers](notes/validate-compound-component-context-consumers.md)
+- [04. Validate Compound Component Context Consumers](notes/04-validate-compound-component-context-consumers.md)
 - [05. Prevent Unnecessary Rerenders of Compound Components using React Context](notes/05-prevent-unnecessary-rerenders-of-compound-components-using-react-context.md)
 - [06. Use Render Props with React](notes/06-use-render-props-with-react.md)
 - [07. Use Prop Collections with Render Props](notes/07-use-prop-collections-with-render-props.md)
